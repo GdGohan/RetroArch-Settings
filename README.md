@@ -1,4 +1,4 @@
-# Winlauncher-Core-Path-for-RetroArch
+# RetroArch-Settings
 
 **Dolphin:**
 
