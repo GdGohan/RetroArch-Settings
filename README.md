@@ -14,6 +14,8 @@ DefaultISO = ./assets/Games/Super Smash Bros. Brawl (USA) (Rev 2).rvz
 
 WiiSDCard = True
 
+WiiSDCardAllowWrites = True/False
+
 [General]
 
 Dump Path = ./saves/dolphin-emu/User/Dump
