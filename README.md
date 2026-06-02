@@ -6,6 +6,24 @@ User: saves/dolphin-emu/User
 
 Sys: system/dolphin-emu/Sys
 
+Load SDCard (Dolphin.ini):
+
+[Core]
+
+DefaultISO = ./assets/Games/Super Smash Bros. Brawl (USA) (Rev 2).rvz
+
+WiiSDCard = True
+
+[General]
+
+Dump Path = ./saves/dolphin-emu/User/Dump
+
+Load Path = ./saves/dolphin-emu/User/Load
+
+NANDRootPath = ./saves/dolphin-emu/User/Wii
+
+WiiSDCardPath = ./saves/dolphin-emu/User/Wii/sd.raw
+
 **Winlauncher:**
 
 dll: cores
