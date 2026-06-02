@@ -6,7 +6,7 @@ User: saves/dolphin-emu/User
 
 Sys: system/dolphin-emu/Sys
 
-*Load SDCard (Dolphin.ini):*
+**Load SDCard (Dolphin.ini):**
 
 [Core]
 
