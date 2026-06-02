@@ -1,9 +1,11 @@
 # Winlauncher-Core-Path-for-RetroArch
 
-Dolphin:
+**Dolphin:**
+
 User: saves/dolphin-emu/User
 
 Sys: system/dolphin-emu/Sys
+
 
 Core: cores
 
