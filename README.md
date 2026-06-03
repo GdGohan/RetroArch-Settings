@@ -8,6 +8,8 @@ Sys: system/dolphin-emu/Sys
 
 **Load SDCard (Dolphin.ini/RSBE01.ini):**
 
+RSBE01 - Rex Zero Half Mod: https://youtu.be/xkctlNo5YlM
+
 [Core]
 
 DefaultISO = ./assets/Games/Super Smash Bros. Brawl (USA) (Rev 2).rvz
