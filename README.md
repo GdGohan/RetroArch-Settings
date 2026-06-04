@@ -32,7 +32,7 @@ NANDRootPath = ./saves/dolphin-emu/User/Wii
 
 WiiSDCardPath = ./saves/dolphin-emu/User/Wii/sd.raw
 
-**Winlauncher:**
+## Winlauncher:
 
 dll: cores
 
