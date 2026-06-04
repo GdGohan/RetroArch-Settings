@@ -6,9 +6,13 @@ User: saves/dolphin-emu/User
 
 Sys: system/dolphin-emu/Sys
 
-**Load SDCard (Dolphin.ini/RSBE01.ini):**
+**Load SDCard (Dolphin.ini):**
 
-RSBE01 - Rex Zero Half Mod: https://youtu.be/xkctlNo5YlM
+*RSBE01 - GameSettings* 
+
+Rex Zero Half Mod: https://youtu.be/xkctlNo5YlM
+
+ID-REX Offline Launcher.ini
 
 [Core]
 
