@@ -6,7 +6,7 @@ User: saves/dolphin-emu/User
 
 Sys: system/dolphin-emu/Sys
 
-## Load SDCard (Dolphin.ini):
+## Load SDCard:
 
 **RSBE01 - GameSettings**
 
@@ -21,6 +21,8 @@ DefaultISO = ./assets/Games/Super Smash Bros. Brawl (USA) (Rev 2).rvz
 WiiSDCard = True
 
 WiiSDCardAllowWrites = True/False
+
+**Dolphin.ini**
 
 [General]
 
