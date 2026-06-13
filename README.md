@@ -61,7 +61,7 @@ Tutorial: https://gamebanana.com/tuts/14789
         "options": [
           {
             "choice": 1,
-            "option-name": "\/Mod Option",
+            "option-name": "\\/Mod Option",
             "section-name": "Mod Test"
           }
         ],
