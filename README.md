@@ -50,10 +50,10 @@ Use Standalone Dolphin to create a json file to load a Riivolution mod
 
 Tutorial: https://gamebanana.com/tuts/14789
 
-**Json Example**
+**Json Example (file in RetroArch Folder/assets/Games)**
 
 {
-  "base-file": ".assets/Games/game.rvz",
+  "base-file": "./game.rvz",
   "display-name": "Riivolution-RetroArch-Example",
   "riivolution": {
     "patches": [
@@ -65,8 +65,8 @@ Tutorial: https://gamebanana.com/tuts/14789
             "section-name": "Mod Test"
           }
         ],
-        "root": "./saves/dolphin-emu/User/Load/Riivolution",
-        "xml": "./saves/dolphin-emu/User/Load/Riivolution/(folder)/test.xml"
+        "root": "../../saves/dolphin-emu/User/Load/Riivolution",
+        "xml": "../../saves/dolphin-emu/User/Load/Riivolution/(folder)/test.xml"
       }
     ]
   },
