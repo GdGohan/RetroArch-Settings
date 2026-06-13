@@ -53,7 +53,7 @@ Tutorial: https://gamebanana.com/tuts/14789
 **Json Example**
 
 {
-  "base-file": "./Games/game.rvz",
+  "base-file": ".assets/Games/game.rvz",
   "display-name": "Riivolution-RetroArch-Example",
   "riivolution": {
     "patches": [
