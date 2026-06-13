@@ -42,5 +42,34 @@ info: info
 
 Core: https://drive.google.com/drive/folders/11Oi0AX1HNDfmyfgICRupL-1TlCAA1E-5?usp=drive_link
 
+## Riivolution
 
+Use Standalone Dolphin to create a json file to load a Riivolution mod
 
+**XML**
+
+Tutorial: https://gamebanana.com/tuts/14789
+
+**Json Example**
+
+{
+  "base-file": "./Games/game.rvz",
+  "display-name": "Riivolution-RetroArch-Example",
+  "riivolution": {
+    "patches": [
+      {
+        "options": [
+          {
+            "choice": 1,
+            "option-name": "\/Mod Option",
+            "section-name": "Mod Test"
+          }
+        ],
+        "root": "./saves/dolphin-emu/User/Load/Riivolution",
+        "xml": "./saves/dolphin-emu/User/Load/Riivolution/(folder)/test.xml"
+      }
+    ]
+  },
+  "type": "dolphin-game-mod-descriptor",
+  "version": 1
+}
