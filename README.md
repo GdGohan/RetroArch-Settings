@@ -61,8 +61,8 @@ Tutorial: https://gamebanana.com/tuts/14789
         "options": [
           {
             "choice": 1,
-            "option-name": "\\/Mod Option",
-            "section-name": "Mod Test"
+            "option-name": "Option",
+            "section-name": "Test"
           }
         ],
         "root": "../../saves/dolphin-emu/User/Load/Riivolution",
