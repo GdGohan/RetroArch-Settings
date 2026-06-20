@@ -50,7 +50,7 @@ Use Standalone Dolphin to create a json file to load a Riivolution mod
 
 Tutorial: https://gamebanana.com/tuts/14789
 
-<id disc="1" (partition)
+<id disc="0"
 
 **Json Example (file in RetroArch Folder/assets/Games)**
 
